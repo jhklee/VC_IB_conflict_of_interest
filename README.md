@@ -1,4 +1,4 @@
-# VC_IB_conflict_of_interest
+# IPO underwriter’s conflict of interest: When IPO underwriter has stake of the issuer
 I present the entire code for my paper "IPO underwriter’s conflict of interest: When IPO underwriter has stake of the issuer"
 
 [Link for the latest version](https://utexas.box.com/s/inhpuzf7pvf7fum577v656q6k8jud1ji)
