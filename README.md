@@ -1,7 +1,7 @@
 # VC_IB_conflict_of_interest
 I present the entire code for my paper "IPO underwriter’s conflict of interest: When IPO underwriter has stake of the issuer"
 
-Link for the latest version. [Link](https://utexas.box.com/s/inhpuzf7pvf7fum577v656q6k8jud1ji)
+[Link for the latest version](https://utexas.box.com/s/inhpuzf7pvf7fum577v656q6k8jud1ji)
 
 In this project I use 4 main datasets. Securities Data Corporation(SDC) Corporate New Issues database, Center for Research in Securities Prices (CRSP) daily stock files, Compustat, and PREQIN Pro. 
 
