@@ -5,8 +5,8 @@ In this project I use 4 main datasets. Securities Data Corporation(SDC) Corporat
 
 The order of my code is as bellow. 
 
-1. Merge Preqin Pro data and SDC data. (DATA 1)
-   1.1. Fuzzy match the issuer in SDC and the firm in Preqin Pro.
+1. Merge Preqin Pro data and SDC data. (DATA 1) \\
+   1.1. Fuzzy match the issuer in SDC and the firm in Preqin Pro. \\
    1.2. Fuzzy match the underwriter in SDC and the investor in Preqin Pro.
    1.3. Handmatch the underwriter in SDC and the investor in Preqin Pro.
 2. Merge CRSP daily stock files with Compustat using CCM table. (DATA 2)
